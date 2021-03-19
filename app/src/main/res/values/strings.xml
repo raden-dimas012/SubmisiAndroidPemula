@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Anime</string>
+    <string name="todo">to do somethings</string>
+    <string name="full_name">Raden Muhammad Dimas Burhanudin Akbar</string>
+    <string name="detail_profil">Detail Profile</string>
+    <string name="username">Username</string>
+    <string name="username_info">raden_dimas</string>
+    <string name="email">Email</string>
+    <string name="email_info">1181504@bangkit.academy</string>
+    <string name="phone">Phone</string>
+    <string name="phone_info">+6285158901216</string>
+    <string name="address">Address</string>
+    <string name="address_info">Jambi City</string>
+</resources>
